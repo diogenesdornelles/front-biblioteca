@@ -9,7 +9,7 @@ export const initialBooks: TBook[] = [
         publishDate: '1996-12-06',
         pageCount: 238,
         excerpt: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea, explicabo, nesciunt a deserunt fuga molestias in, placeat aliquam sequi voluptate modi laboriosam aspernatur! Natus temporibus itaque atque laudantium sed earum.',
-        image: '/public/images/20241204_104326.png'
+        image: '/assets/images/20241204_104326.png'
     },
     {
         _id: 'asjwo00908weqoejqkwj3',
@@ -18,7 +18,7 @@ export const initialBooks: TBook[] = [
         publishDate: '2018-07-08',
         pageCount: 321,
         excerpt: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea, explicabo, nesciunt a deserunt fuga molestias in, placeat aliquam sequi voluptate modi laboriosam aspernatur! Natus temporibus itaque atque laudantium sed earum.',
-        image: '/public/images/20241204_104334.jpg'
+        image: '/assets/images/20241204_104334.jpg'
     },
     {
         _id: '8h2h2hg39293h23jh23hj2kj',
@@ -27,7 +27,7 @@ export const initialBooks: TBook[] = [
         publishDate: '2019-10-13',
         pageCount: 298,
         excerpt: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea, explicabo, nesciunt a deserunt fuga molestias in, placeat aliquam sequi voluptate modi laboriosam aspernatur! Natus temporibus itaque atque laudantium sed earum.',
-        image: '/public/images/20241204_104344.jpg'
+        image: '/assets/images/20241204_104344.jpg'
     },
     {
         _id: '2342302kjkdjak23092420',
@@ -36,6 +36,6 @@ export const initialBooks: TBook[] = [
         publishDate: '2020-08-23',
         pageCount: 349,
         excerpt: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea, explicabo, nesciunt a deserunt fuga molestias in, placeat aliquam sequi voluptate modi laboriosam aspernatur! Natus temporibus itaque atque laudantium sed earum.',
-        image: '/public/images/20241204_104507.png'
+        image: '/assets/images/20241204_104507.png'
     }
 ]
