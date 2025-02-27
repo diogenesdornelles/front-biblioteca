@@ -73,7 +73,7 @@ function Home(): JSX.Element {
       {loading ? (
         <p className="text-center mt-10">Carregando...</p>
       ) : (
-        <div className="backdrop-blur-sm bg-black/70 p-2 mt-12 GAP-4">
+        <div className="backdrop-blur-sm bg-black/70 p-2 mt-12 gap-4">
           <Carousel
             swipeable={false}
             draggable={false}
